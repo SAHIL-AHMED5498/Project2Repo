@@ -218,3 +218,41 @@
     font-size: 0.85rem;
     font-weight: 400;
 }
+.shop-content{
+    height: 400px;
+    display: flex;
+    margin-top: 1px;
+    background-color:#e2e7e6;
+    justify-content: center;
+}
+.box{
+    display: flex;
+
+    height: 300px;
+    width:20%;
+    margin-top:10px ;
+    margin-left:30px ;
+    gap: 10px;
+    background-color:white;
+    justify-content:space-evenly;
+    padding: 20px 0px 15px;
+    
+    
+}
+.box-content{
+     
+     
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+}
+.box-img{
+    margin-top: 15px;
+    margin-bottom: 10px;
+height:180px ;
+    background-size: cover;
+}
+.box-content p{
+    font-size: 1rem;
+    color: #5079a2;
+}
