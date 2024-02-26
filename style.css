@@ -157,3 +157,31 @@
 
     font-size: 1.5rem;
 }
+
+.panel{
+
+
+    background-color: #222f3d;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.panel-ops p {
+ display: inline;
+ ;
+ margin-left: 15px;
+
+}
+.panel-ops{
+    width: 70%;
+    font-size:0.8rem ;
+    
+
+}
+.panel-ops2{
+
+    font-size: 0.9rem;
+    font-weight: 700;
+}
