@@ -223,7 +223,14 @@
     display: flex;
     margin-top: 1px;
     background-color:#e2e7e6;
-    justify-content: center;
+    justify-content: center;}
+
+    .shop-content2{
+        height: 400px;
+        display: flex;
+        margin-top: 1px;
+        background-color:#e2e7e6;
+        justify-content: center;
 }
 .box{
     display: flex;
