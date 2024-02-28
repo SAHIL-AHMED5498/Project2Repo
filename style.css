@@ -135,7 +135,7 @@
 }
 
 .sign-sel {
-
+    width: 1rem;
     color: white;
     background-color: #0f1111;
 }
@@ -305,7 +305,10 @@ height:180px ;
         background-color: #0f1111;
         display: flex;
         align-items: center;
-        justify-content: stretch;
+        justify-content: space-evenly;
+    }
+    .sign-sel{
+        width:1rem;
     }
     .panel-all{
         height: 95%;
